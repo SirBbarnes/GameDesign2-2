@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8D40CFA6-A915-FFEF-4505-047232B8426C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StandAloneScript/UI_Controller.cs">
+    <Files>
+      <File FileName="Assets/StandAloneScript/UI_Controller.cs" Line="13" Column="29" />
+      <File FileName="Assets/NetPlayManager/SimpleSynchronization.cs" Line="10" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1252210b-a2be-4a3d-af99-1e90927635c7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
